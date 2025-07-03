@@ -1,0 +1,32 @@
+// Colors
+$primary-color: #5e35b1;
+$primary-light: #9162e4;
+$primary-dark: #280680;
+$secondary-color: #ff6f61;
+$background-color: #f9f5ff;
+$text-primary: #2d3748;
+$text-secondary: #4a5568;
+
+// Gradients
+$primary-gradient: linear-gradient(135deg, $primary-color, $primary-light);
+$secondary-gradient: linear-gradient(135deg, $secondary-color, #ff9a44);
+
+// Shadows
+$shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+$shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+$shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+
+// Fonts
+$font-primary: 'Poppins', sans-serif;
+$font-secondary: 'Playfair Display', serif;
+
+// Transitions
+$transition-fast: 0.2s ease;
+$transition-medium: 0.3s ease;
+$transition-slow: 0.5s ease;
+
+// Breakpoints
+$breakpoint-sm: 640px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;

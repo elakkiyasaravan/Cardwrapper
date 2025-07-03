@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Maxi Dress",
+    "price": 85000.00,
+    "image": "D.jpeg",
+    "description": "Elegant maxi dress perfect for summer occasions."
+  },
+  {
+    "id": 2,
+    "name": "Winter Frock",
+    "price": 27500.00,
+    "image": "D1.jpeg",
+    "description": "Warm and stylish winter frock for cold days."
+  },
+  {
+    "id": 3,
+    "name": "Pink Frock",
+    "price": 15000.00,
+    "image": "D2.jpeg",
+    "description": "Adorable pink frock for casual outings."
+  }
+]
